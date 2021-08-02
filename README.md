@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dmoranp
+- 👀 I’m interested in web and mobile app's
+- 🌱 I’m currently learning Flutter
