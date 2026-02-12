@@ -58,13 +58,11 @@ I am an experienced software developer with years of hands-on experience buildin
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 📊 GitHub Statistics
+## 📊 GitHub Streak
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmoranp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmoranp&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27)
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=dmoranp&theme=dark&hide_border=true&locale=en)
 
 </div>
 
