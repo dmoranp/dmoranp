@@ -10,13 +10,13 @@
 
 I am an experienced software developer with years of hands-on experience building robust and scalable solutions. My expertise spans multiple technologies and frameworks, with a proven track record of delivering impactful projects across various domains.
 
-- 💼 Extensive experience in full-stack development
-- 🔭 Working on challenging and innovative projects
-- 💻 Programming since childhood—technology has always been my passion
-- 🚀 Delivered numerous high-impact projects throughout my career
-- 🌱 Continuously learning about AI, machine learning, and emerging technologies
-- 🎯 Focused on creating intelligent, scalable, and efficient solutions
-- 📚 Strong believer in discipline, continuous improvement, and excellence
+- Extensive experience in full-stack development
+- Working on challenging and innovative projects
+- Programming since childhood—technology has always been my passion
+- Delivered numerous high-impact projects throughout my career
+- Continuously learning about AI, machine learning, and emerging technologies
+- Focused on creating intelligent, scalable, and efficient solutions
+- Strong believer in discipline, continuous improvement, and excellence
 
 ## 🛠️ Technical Skills
 
@@ -36,8 +36,9 @@ I am an experienced software developer with years of hands-on experience buildin
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-### Databases
+### Databases & Backend Services
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
