@@ -67,6 +67,12 @@ I am an experienced software developer with years of hands-on experience buildin
 
 </div>
 
+## 🌍 Open Source Contributions
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [OCA / account-financial-reporting](https://github.com/OCA/account-financial-reporting/pull/1470) | Fix account_type comparison in partner statement report titles | ✅ Merged |
+
 ## 🎖️ Experience & Expertise
 
 With years of development experience under my belt, I've had the opportunity to work on diverse and challenging projects. My journey as a programmer started in childhood, giving me a deep understanding of software development principles and best practices. This extensive experience allows me to approach complex problems with confidence and deliver solutions that stand the test of time.
