@@ -63,7 +63,7 @@ I am an experienced software developer with years of hands-on experience buildin
 
 <div align="center">
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=dmoranp&theme=dark&border=transparent&locale=en)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=dmoranp&theme=dark&border=transparent&locale=en&background=transparent)
 
 </div>
 
